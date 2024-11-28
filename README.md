@@ -54,10 +54,6 @@ Hi there! I'm **Krishnan Venkiteswaran**, a Machine Learning Engineer with exper
 - Engineered predictive models reducing compound screening time by **35%** in drug discovery.  
 - Deployed **3 machine learning models**, improving research efficiency.
 
-### **Machine Learning Lead | Google Developer Groups, SIESGST** (2024 - Present)  
-- Spearheaded **5 ML projects** and organized **10+ workshops/events**.  
-- Mentored **100+ junior developers** and conducted "AI for Everyone" sessions.  
-
 ---
 
 ## Skills  
