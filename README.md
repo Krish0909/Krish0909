@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/🏆_3x_Hackathon_Champion-E94B3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📚_4_Research_Papers-6C5CE7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧠_10x_Better_Neural_Models-00B894?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯_94%25_Medical_AI_Accuracy-FD79A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Medical_AI_-FD79A8?style=for-the-badge" />
 </div>
 
 <br/>
