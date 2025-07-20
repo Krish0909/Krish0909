@@ -1,4 +1,3 @@
-<!-- Dynamic Background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=KRISHNAN%20VENKITESWARAN&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Neural%20Computing%20•%20Machine%20Learning%20•%20Open%20Source&descAlignY=65&descSize=20" />
 
 <!-- Animated Tagline -->
