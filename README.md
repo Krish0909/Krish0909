@@ -1,147 +1,301 @@
-# 🧠 Neural Pathways to Innovation
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Krishnan+Venkiteswaran;ML+Engineer+%40+Hugging+Face;Neural+Signal+Processing+Researcher;Open+Source+Contributor)](https://git.io/typing-svg)
-  
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnan-venkiteswaran)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Krishnanvignesh148@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish0909)
-  
+
+```ascii
+██████╗ ██████╗  █████╗ ██╗███╗   ██╗    ██╗    ██╗ █████╗ ██╗   ██╗███████╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██║████╗  ██║    ██║    ██║██╔══██╗██║   ██║██╔════╝██╔════╝
+██████╔╝██████╔╝███████║██║██╔██╗ ██║    ██║ █╗ ██║███████║██║   ██║█████╗  ███████╗
+██╔══██╗██╔══██╗██╔══██║██║██║╚██╗██║    ██║███╗██║██╔══██║╚██╗ ██╔╝██╔══╝  ╚════██║
+██████╔╝██║  ██║██║  ██║██║██║ ╚████║    ╚███╔███╔╝██║  ██║ ╚████╔╝ ███████╗███████║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝     ╚══╝╚══╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Decoding+neural+signals+into+computational+breakthroughs;Open+Source+Contributor+%40+Hugging+Face+%F0%9F%A4%97;7x+Hackathon+Champion+%7C+4x+Published+Researcher;Building+the+bridge+between+brains+and+machines" alt="Typing SVG" />
+
 </div>
 
-## 🌊 About the Neural Explorer
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+---
 
 ```python
-class NeuralArchitect:
-    def __init__(self):
-        self.current_role = "ML Engineer @ Hugging Face 🤗"
-        self.education = "B.E. AI & ML @ SIES GST (GPA: 8.62/10)"
-        self.research_interests = [
-            "Neural Signal Processing 🧠",
-            "Graph Neural Networks 🕸️",
-            "Biomedical ML 🏥",
-            "Echo State Networks 🌊"
-        ]
-        self.current_obsession = "How minds engineer stable representations"
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+INITIALIZATION SEQUENCE: KRISHNAN VENKITESWARAN
+Loading neural pathways... ████████████████████████ 100%
+"""
+
+import torch
+from transformers import OpenSourceContributor
+from research import NeuralSignalProcessor
+from hackathons import SerialWinner
+
+class TheNeuralArchitect:
+    """
+    🧠 Where biological neural networks meet artificial intelligence
+    """
     
-    def decode_neural_patterns(self):
-        return "Transforming brain signals into computational insights"
+    def __init__(self):
+        self.identity = {
+            'name': 'Krishnan Venkiteswaran',
+            'education': 'B.E. AI/ML @ SIES GST (8.62/10)',
+            'mission': 'Decode consciousness, one neuron at a time',
+            'email': 'Krishnanvignesh148@gmail.com'
+        }
+        
+        self.open_source_impact = {
+            'organization': 'Hugging Face 🤗',
+            'role': 'Open Source Contributor',
+            'users_impacted': 100_000,
+            'contributions': [
+                'Fixed NanoVLM training convergence',
+                'Optimized multi-GPU scaling performance'
+            ]
+        }
+        
+        self.research_breakthroughs = {
+            'neural_dynamics': {
+                'title': 'Multi-Perspective Graph ESN',
+                'accuracy_improvement': '10x',
+                'status': 'Under review @ NeurIPS 2025',
+                'mse': 0.003  # vs 0.030 for standard models
+            }
+        }
+        
+    def decode_brain_signals(self):
+        """Transform 128 electrode arrays into the future of AI"""
+        return "🧠 ➜ 🤖 ➜ 🚀"
+
+# Initialize the architect
+architect = TheNeuralArchitect()
+print(f"System online. Impact radius: {architect.open_source_impact['users_impacted']:,} developers")
 ```
 
-## 🚀 Open Source Impact
+---
 
-<div align="center">
-  
-### 🤗 Hugging Face Contributions
-  
-| 🎯 Achievement | 💡 Impact |
-|----------------|-----------|
-| Fixed NanoVLM Training Logic | Enabled stable convergence for vision-language models |
-| Resolved GPU Scaling Issues | Improved performance for **100k+ users** |
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px">
+  THE NEURAL LABORATORY
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px">
+</h2>
 
-</div>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🧪 Research Laboratory
-
-<details>
-<summary><b>🧠 How Minds Take Shape: Graph-ESN Neural Dynamics</b> <i>(Click to expand)</i></summary>
+### 🧬 Project Alpha
+**GRAPH-ESN NEURAL DYNAMICS**
 
 ```mermaid
-graph LR
-    A[128 EEG Electrodes] --> B[Multi-Perspective Graph ESN]
-    B --> C[10x Lower Prediction Error]
-    C --> D[MSE: 0.003]
-    style B fill:#00D9FF,stroke:#fff,stroke-width:2px
+graph TD
+    A[128 EEG Electrodes] -->|Signal Processing| B[Multi-Perspective Analysis]
+    B -->|Graph Neural Networks| C[Echo State Networks]
+    C -->|Novel Architecture| D[10x Better Predictions]
+    D -->|MSE: 0.003| E[Motor Cortex Insights]
+    
+    style A fill:#ff6b6b,stroke:#fff
+    style E fill:#4ecdc4,stroke:#fff
 ```
 
-- 📊 **Novel MP-GESN Architecture**: Achieved unprecedented accuracy in neural ensemble dynamics prediction
-- 🔬 **Data Scale**: Analyzed 5GB of EEG, ECoG, and LFP recordings
-- 🎯 **Key Discovery**: Unveiled stable representation mechanisms in motor cortex
-- 📝 **Status**: Under review at NeurIPS 2025
+**📊 Stats That Matter:**
+- 5GB neural recordings processed
+- 10x accuracy improvement
+- Under review @ NeurIPS 2025
 
-</details>
+</td>
+<td width="33%" valign="top">
 
-<details>
-<summary><b>🎤 AudiHealth: Voice as a Biomarker</b> <i>(Click to expand)</i></summary>
-
-- 🎯 **94% Accuracy** in detecting 4 major voice disorders
-- 📊 **6,000 Voice Samples** analyzed and processed
-- 🤖 **AI-Powered Reports** using DeepSeek-R1 and clinical NLP
-- 📱 **WhatsApp Integration** for continuous patient monitoring
-
-</details>
-
-<details>
-<summary><b>💰 FinSaathi: Democratizing Financial Access</b> <i>(Datathon '24 Winner)</i></summary>
-
-- 🏆 **Winner among 2,000 participants**
-- 🔍 **RAG-based Scheme Matching** across government programs
-- 📈 **Monte Carlo Simulations** for risk assessment
-- 🚀 **Tech Stack**: LLaMA 3.2, ChromaDB, FastAPI
-
-</details>
-
-## 🏆 Achievement Neural Network
-
-<div align="center">
+### 🎤 Project Beta
+**AUDIHEALTH DIAGNOSTICS**
 
 ```
-        🥇 Great Bengaluru Hackathon (16,000 participants)
-       /  \
-      /    \
-    🥇      🥇
-HackTU 6.0  Datathon'24
-(7,000)     (2,000)
-    |         |
-    🏅--------🏅
-Technical Excellence Award
+┌──────────────────────┐
+│ Voice Sample Input   │
+│         ↓            │
+│   BiLSTM Analysis    │
+│         ↓            │
+│  94% Accuracy Output │
+│         ↓            │
+│ WhatsApp Integration │
+└──────────────────────┘
 ```
 
-### 📊 Competitive Programming Stats
-- **7x Hackathon Winner** 🏆
-- **4 Research Papers Published** 📚
-- **100k+ Lives Impacted** through open source 🌍
+**🏥 Impact Metrics:**
+- 6,000 voice samples
+- 4 disorders detected
+- Real-time monitoring
+- AI-powered reports
 
-</div>
+</td>
+<td width="33%" valign="top">
 
-## 🛠️ Neural Toolkit
+### 💰 Project Gamma
+**FINSAATHI PLATFORM**
 
-<div align="center">
+```python
+def democratize_finance():
+    """
+    RAG + LLaMA 3.2 + 
+    Monte Carlo = 
+    Financial Inclusion
+    """
+    return "🏆 Datathon Winner"
+```
 
-### Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**🚀 Tech Arsenal:**
+- Sentence-BERT embeddings
+- ChromaDB vectors
+- FastAPI backend
+- PostgreSQL storage
 
-### Specialized Arsenal
-![Brain](https://img.shields.io/badge/Neural_Signal_Processing-FF1744?style=for-the-badge&logo=brain&logoColor=white)
-![Graph](https://img.shields.io/badge/Graph_Neural_Networks-00897B?style=for-the-badge&logo=graphql&logoColor=white)
-![Echo](https://img.shields.io/badge/Echo_State_Networks-3F51B5?style=for-the-badge&logo=waves&logoColor=white)
-
-</div>
-
-## 📈 GitHub Neural Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish0909&theme=radical&hide_border=true" />
-</div>
-
-## 🔮 Current Neural Experiments
-
-- 🧠 Decoding consciousness through Graph-ESN architectures
-- 🏥 Advancing pharmaceutical ML at the molecular level
-- 🤗 Contributing to democratizing AI through Hugging Face
-- 📊 Building bridges between neuroscience and machine learning
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20decode%20intelligence%20together&fontSize=20&fontAlignY=70" />
-  
-  ### 💡 "The brain is the last and greatest frontier... most complicated thing we have yet discovered in our universe" - James Watson
-  
-  <img src="https://komarev.com/ghpvc/?username=Krish0909&color=00D9FF&style=for-the-badge" />
+
+## ⚔️ BATTLE RECORD ⚔️
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                         HACKATHON DOMINATION                           ║
+╠════════════════════════════════════════════════════════════════════════╣
+║  🏆 The Great Bengaluru Hackathon ········· CHAMPION (16,000 warriors) ║
+║  🥇 HackTU 6.0 @ TIET Patiala ············ VICTOR (7,000 competitors)  ║
+║  🎯 Datathon '24 @ KJ Somaiya ············· WINNER (2,000 data minds)  ║
+║  ⚡ Technical Excellence Award ············· SIES GST Recognition      ║
+║  🔥 Techsparks '24 @ FCRIT ················ CONQUERED (500 hackers)    ║
+║  🥈 NSC-ETT @ TCET ························ RUNNER-UP (1,000 entries)  ║
+║  🏅 Devshouse '24 @ VIT ··················· 14th/3,500 Nationally      ║
+║  👑 Cognition @ SIES ······················ 3X CONSECUTIVE CHAMPION    ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<h2 align="center">🛠️ WEAPON SYSTEMS</h2>
+
+<div align="center">
+
+| Core Arsenal | Neural Weapons | Signal Processing |
+|:------------:|:--------------:|:-----------------:|
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) |
+
+**🧪 Specialized Tech:** Graph Neural Networks • Echo State Networks • VAEs • GANs • Diffusion Models • Liquid State Machines
+
+</div>
+
+---
+
+<div align="center">
+
+## 📚 PUBLISHED WORKS
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+
+| 📖 Title | 🎯 Venue | 📊 Impact |
+|:---------|:---------|:----------|
+| **How Minds Take Shape: Graph-ESN Neural Dynamics** | NeurIPS 2025 *(Under Review)* | 🧠 Breakthrough in neural understanding |
+| **AI-Driven Recruitment through Personality Prediction** | IDEA 2024, Springer | 📈 87% accuracy |
+| **Advanced Fake News Detection Using BERT** | ICDSM 2024, Springer | 🎯 92.3% accuracy |
+| **Neuro-Symbolic AI for Medical Diagnosis** | ICICN 2024, Springer | 🏥 Healthcare innovation |
+
+</div>
+
+---
+
+<h2 align="center">📡 REAL-TIME STATS</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krish0909&theme=github_dark" width="90%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krish0909&theme=radical&no-frame=true&no-bg=true&column=7" width="90%" />
+</div>
+
+---
+
+<div align="center">
+
+## 🌊 CURRENT EXPERIMENTS
+
+```javascript
+class CurrentMission {
+    constructor() {
+        this.activeProjects = [
+            {
+                name: "🧠 Consciousness Decoder",
+                description: "Multi-Perspective Graph ESN for neural ensemble dynamics",
+                progress: "████████████████░░░░ 80%",
+                impact: "Redefining how we understand brain computation"
+            },
+            {
+                name: "🤗 Hugging Face Contributions",
+                description: "Democratizing AI through open source",
+                progress: "████████████████████ 100%",
+                impact: "100,000+ developers enabled"
+            },
+        ];
+    }
+    
+    getNextTarget() {
+        return "Bridge the gap between biological and artificial intelligence";
+    }
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 INITIATE CONTACT
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishnan-venkiteswaran">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_the_Neural_Architect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:Krishnanvignesh148@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Transmit_Neural_Signals-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Krish0909">
+    <img src="https://img.shields.io/badge/GitHub-Explore_the_Codebase-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+  </a>
+</p>
+
+<br>
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║  "The brain is the universe's most sophisticated computer.        ║
+║   I'm just trying to write better software for it."               ║
+║                                                                   ║
+║                              - Krishnan Venkiteswaran             ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=Krish0909&style=for-the-badge&color=00D9FF&label=NEURAL+CONNECTIONS" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+
 </div>
