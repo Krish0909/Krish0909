@@ -264,7 +264,7 @@ class CurrentMission {
 ## 🤝 INITIATE CONTACT
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishnan-venkiteswaran">
+  <a href="https://www.linkedin.com/in/krishnan-vignesh-709aba229/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_the_Neural_Architect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
   </a>
 </p>
