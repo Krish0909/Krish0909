@@ -62,7 +62,7 @@ class TheNeuralArchitect:
             'neural_dynamics': {
                 'title': 'Multi-Perspective Graph ESN',
                 'accuracy_improvement': '10x',
-                'status': 'Under review @ SFN 2025',
+                'status': 'Accepted @ SFN 2025',
                 'mse': 0.003  # vs 0.030 for standard models
             }
         }
@@ -105,7 +105,7 @@ graph TD
 **📊 Stats That Matter:**
 - 5GB neural recordings processed
 - 10x accuracy improvement
-- Under review @ SFN 2025
+- Accepted @ SFN 2025
 
 </td>
 <td width="33%" valign="top">
@@ -205,7 +205,7 @@ def democratize_finance():
 
 | 📖 Title | 🎯 Venue | 📊 Impact |
 |:---------|:---------|:----------|
-| **How Minds Take Shape: Graph-ESN Neural Dynamics** | SFN 2025 *(Under Review)* | 🧠 Breakthrough in neural understanding |
+| **How Minds Take Shape: Graph-ESN Neural Dynamics** | SFN 2025 *(Accepted)* | 🧠 Breakthrough in neural understanding |
 | **AI-Driven Recruitment through Personality Prediction** | IDEA 2024, Springer | 📈 87% accuracy |
 | **Advanced Fake News Detection Using BERT** | ICDSM 2024, Springer | 🎯 92.3% accuracy |
 | **Neuro-Symbolic AI for Medical Diagnosis** | ICICN 2024, Springer | 🏥 Healthcare innovation |
