@@ -10,7 +10,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝     ╚══╝╚══╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Decoding+neural+signals+into+computational+breakthroughs;Open+Source+Contributor+%40+Hugging+Face+%F0%9F%A4%97;7x+Hackathon+Champion+%7C+4x+Published+Researcher;Building+the+bridge+between+brains+and+machines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Decoding+neural+signals+into+computational+breakthroughs;Open+Source+Contributor+%40+Hugging+Face+%F0%9F%A4%97;8x+Hackathon+Champion+%7C+4x+Published+Researcher;Building+the+bridge+between+brains+and+machines" alt="Typing SVG" />
 
 </div>
 
